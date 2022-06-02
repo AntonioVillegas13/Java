@@ -1,0 +1,5 @@
+12:57:08.315 [main] INFO  com.cmc.log.Admin - esto es informacion
+12:57:08.315 [main] WARN  com.cmc.log.Admin - mENSAJE WARN
+12:57:08.315 [main] DEBUG com.cmc.log.Admin - mesaje de debug
+12:57:08.315 [main] ERROR com.cmc.log.Admin - mesaje de error
+12:57:08.315 [main] TRACE com.cmc.log.Admin - Mensaje trace
